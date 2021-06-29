@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.611">
+    <testcase classname="Enter JobVacncy" name="Jobb Vacancy details entered successfully" time="0.067">
+        <system-out>
+            <![CDATA[Given I want to enter total_points and candidate_name.......................passed
+When I enter valid t_po1 and c_name1........................................passed
+Then I have entered information successfully................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Enter JobVacncy" name="Jobb Vacancy details entered successfully 2" time="0.002">
+        <system-out>
+            <![CDATA[Given I want to enter total_points and candidate_name.......................passed
+When I enter valid t_po2 and c_name2........................................passed
+Then I have entered information successfully................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Enter JobVacncy" name="Jobb Vacancy details entered successfully 3" time="0.002">
+        <system-out>
+            <![CDATA[Given I want to enter total_points and candidate_name.......................passed
+When I enter valid t_po3 and c_name3........................................passed
+Then I have entered information successfully................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
